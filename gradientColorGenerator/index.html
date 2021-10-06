@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gradient Picker</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+</head>
+<body id="bg" class="bg">
+    <div class="container-fluid mt-0">
+       <div class="text-white text-center my-2 my-lg-5">
+        <h1 class="text-white my-2 my-lg-5" >Generate a CSS Color Gradient</h1>
+        <h6>Choose orientation</h6>
+       </div>
+       <div class="text-center">
+           <button onclick="direction('right top')" class="btns p-3  rounded-circle right-top"><i class="fas text-white  fa-2x fa-arrow-right"></i></button>
+           <button onclick="direction('right')" class="btns p-3  rounded-circle"><i class="fas fa-2x text-white  fa-arrow-right"></i></button>
+           <button onclick="direction('right bottom')" class="btns p-3  rounded-circle right-bottom"><i class="fas text-white  fa-2x fa-arrow-right"></i></button>
+           <button onclick="direction('bottom')" class="btns  p-3 rounded-circle"><i class="fas  text-white fa-2x fa-arrow-down"></i></button>
+           <button onclick="direction('left bottom')" class="btns  p-3 rounded-circle left-bottom"><i class="fas  text-white  fa-2x fa-arrow-down"></i></button>
+           <button onclick="direction('left')" class="btns  p-3 rounded-circle"><i class="fas text-white  fa-2x fa-arrow-left"></i></button>
+           <button onclick="direction('left top')" class="btns  p-3 rounded-circle left-top"><i class="fas  text-white fa-2x fa-arrow-left"></i></button>
+           <button onclick="direction('top')" class="btns p-3  rounded-circle"><i class="fas text-white  fa-2x fa-arrow-up"></i></button>
+           <button onclick="direction('circle')" class="btns  p-3 rounded-circle"><i class="fas text-white  fa-2x fa-undo-alt"></i></button>
+       </div>
+       <div class="text-center">
+           <h6 class="text-white">Enter Colors</h6>
+           <input type="color" class="color-input" id="firstColor" value="#051937">
+           <input type="color" class="color-input" id="secondColor" value="#006e79">
+           <br>
+           <button id="color_generate" class="btn btn-dark rounded-pill mt-4 py-3 px-4">
+               <i class="fas fa-location-arrow"></i> Generate
+            </button>
+       </div>
+       <h6 class="text-white text-center mt-4">CSS Code:</h6>
+        <div class="gradientProperty mx-auto p-3 mb-5 text-center text-white w-50">
+            <strong class="text-center">background-image: <span  id="show_css">linear-gradient( to right top, <br>#051937, #006e79);</span></strong>
+        </div>
+    </div>
+   
+    <script src="script.js"></script>
+</body>
+</html>

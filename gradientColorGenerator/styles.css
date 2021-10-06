@@ -1,0 +1,65 @@
+.bg{
+    height: 92vh;
+    width: 100%;
+    background-image: linear-gradient(to right top, #051937, #006e79);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.btns{
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
+
+.btns:hover {
+    background-color: rgba(0,0,0,0.2);
+}
+
+.gradientProperty {
+    border-left: 3px solid #fff;
+    border-radius: 3px;
+    background-color: rgba(245, 245, 245, 0.082);
+    height: 5rem;
+}
+
+.color-input{
+    background :transparent;
+    border: none;
+    outline: none;
+    width: 150px;
+    height: 60px;
+    padding: 0;
+    -webkit-appearance: none;
+}
+.color-input::-webkit-color-swatch-wrapper{
+    padding:0 !important;
+}
+.color-input::-webkit-color-swatch {
+    border: none;
+    border-radius: 40px;
+}
+
+.right-top{
+    transform: rotate(-45deg);
+}
+.right-bottom{
+    transform: rotate(49deg);
+}
+.left-bottom{
+    transform: rotate(-325deg);
+}
+.left-top{
+    transform: rotate(39deg);
+}
+
+@media only screen and (max-width: 661px) {
+    .height {
+      height: 10rem;
+    }
+    .bg{
+        height: 99vh;
+    }
+  }
