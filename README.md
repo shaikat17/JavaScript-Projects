@@ -17,3 +17,4 @@
 | 13 | [Custom Animated Progress Bar](https://github.com/shaikat17/JavaScript-Projects/tree/main/Custom%20Animated%20Progress%20Bar)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Custom%20Animated%20Progress%20Bar/index.html)|
 | 14 | [Cursor Effect](https://github.com/shaikat17/JavaScript-Projects/tree/main/Cursor%20Effect)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Cursor%20Effect/index.html)|
 | 15 | [Color Switcher](https://github.com/shaikat17/JavaScript-Projects/tree/main/Color%20Switcher)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Color%20Switcher/index.html)|
+| 15 | [Calculator App](https://github.com/shaikat17/JavaScript-Projects/tree/main/Calculator%20App)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Calculator%20App/index.html)|
