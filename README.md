@@ -20,3 +20,5 @@
 | 16 | [Calculator App](https://github.com/shaikat17/JavaScript-Projects/tree/main/Calculator%20App)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Calculator%20App/index.html)|
 | 17 | [Testimonial Slider](https://github.com/shaikat17/JavaScript-Projects/tree/main/Testimonial%20Slider)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Testimonial%20Slider/index.html)|
 | 18 | [Accordion App](https://github.com/shaikat17/JavaScript-Projects/tree/main/accordion)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/accordion/index.html)|
+| 19 | [Rock Paper Scissor](https://github.com/shaikat17/JavaScript-Projects/tree/main/RockPaperScissor)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/RockPaperScissor/index.html)|
+| 20 | [Gradient Color Generator](https://github.com/shaikat17/JavaScript-Projects/tree/main/gradientColorGenerator)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/gradientColorGenerator/index.html)|
