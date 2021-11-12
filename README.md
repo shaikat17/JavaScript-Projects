@@ -23,3 +23,4 @@
 | 19 | [Rock Paper Scissor](https://github.com/shaikat17/JavaScript-Projects/tree/main/RockPaperScissor)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/RockPaperScissor/index.html)|
 | 20 | [Gradient Color Generator](https://github.com/shaikat17/JavaScript-Projects/tree/main/gradientColorGenerator)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/gradientColorGenerator/index.html)|
 | 21 | [The Keyboard App](https://github.com/shaikat17/JavaScript-Projects/tree/main/The%20Keyboard%20App)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/The%20Keyboard%20App/index.html)|
+| 21 | [Digital Clock App](https://github.com/shaikat17/JavaScript-Projects/tree/main/Digital%20Clock%20App)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Digital%20Clock%20App/index.html)|
