@@ -24,3 +24,4 @@
 | 20 | [Gradient Color Generator](https://github.com/shaikat17/JavaScript-Projects/tree/main/gradientColorGenerator)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/gradientColorGenerator/index.html)|
 | 21 | [The Keyboard App](https://github.com/shaikat17/JavaScript-Projects/tree/main/The%20Keyboard%20App)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/The%20Keyboard%20App/index.html)|
 | 22 | [Digital Clock App](https://github.com/shaikat17/JavaScript-Projects/tree/main/Digital%20Clock%20App)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Digital%20Clock%20App/index.html)|
+| 23 | [Form Input Effect](https://github.com/shaikat17/JavaScript-Projects/tree/main/Form%20Input%20Effect)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Form%20Input%20Effect/index.html)|
