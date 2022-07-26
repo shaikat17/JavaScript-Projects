@@ -25,4 +25,6 @@
 | 21 | [The Keyboard App](https://github.com/shaikat17/JavaScript-Projects/tree/main/The%20Keyboard%20App)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/The%20Keyboard%20App/index.html)|
 | 22 | [Digital Clock App](https://github.com/shaikat17/JavaScript-Projects/tree/main/Digital%20Clock%20App)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Digital%20Clock%20App/index.html)|
 | 23 | [Form Input Effect](https://github.com/shaikat17/JavaScript-Projects/tree/main/Form%20Input%20Effect)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Form%20Input%20Effect/index.html)|
-| 24 |
+| 24 | [CSS Property Changer](https://github.com/shaikat17/JavaScript-Projects/tree/main/CSS%20Property%20Changer)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/CSS%20Property%20Changer/index.html)|
+| 25 | [Copy Color Code](https://github.com/shaikat17/JavaScript-Projects/tree/main/Copy%20Color%20Code)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Copy%20Color%20Code/index.html)|
+| 26 | 
