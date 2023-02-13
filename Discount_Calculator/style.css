@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;600;700;900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+    background-color: #E9F8F9;
+}
+
+body {
+    height: 100vh;
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+    margin: 30px 0;
+    font-weight: 900;
+    color: #181823;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    background-color: #C0EEF2;
+    gap: 20px;
+    height: auto;
+    padding: 40px;
+    text-align: left;
+    border-radius: 30px;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    background-color: #C0EEF2;
+}
+
+label {
+    font-size: 22px;
+    font-weight: 600;
+    color: #181823;
+    background-color: #C0EEF2;
+    margin-bottom: 15px;
+}
+
+input {
+    border: none;
+    padding: 15px;
+    background-color: transparent;
+    border-top: 1px solid #537FE7;
+    border-left: 1px solid #537FE7;
+    border-right: 1px solid #537FE7;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+input:focus {
+    border: none;
+    color: #537FE7;
+}
+
+button {
+    background-color: #181823;
+    color: #E9F8F9;
+    font-weight: 700;
+    border: none;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.disc_box {
+    background-color: #C0EEF2;    
+}
+
+.disc_box h1 {
+    background-color: #C0EEF2;
+}
+
+.disc_box span {
+    background-color: #C0EEF2;
+}
