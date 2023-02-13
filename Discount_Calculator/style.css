@@ -72,6 +72,13 @@ button {
     height: 50px;
     border-radius: 10px;
     font-size: 18px;
+    cursor: pointer;
+    transition: all 1s;
+}
+
+button:hover {
+    background-color: #537FE7;
+    color: #181823;
 }
 
 .disc_box {
