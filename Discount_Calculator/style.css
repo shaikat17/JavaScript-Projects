@@ -81,6 +81,11 @@ button:hover {
     color: #181823;
 }
 
+button:disabled {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #E9F8F9;
+}
+
 .disc_box {
     background-color: #C0EEF2;    
 }
