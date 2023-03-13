@@ -27,4 +27,11 @@
 | 23 | [Form Input Effect](https://github.com/shaikat17/JavaScript-Projects/tree/main/Form%20Input%20Effect)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Form%20Input%20Effect/index.html)|
 | 24 | [CSS Property Changer](https://github.com/shaikat17/JavaScript-Projects/tree/main/CSS%20Property%20Changer)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/CSS%20Property%20Changer/index.html)|
 | 25 | [Copy Color Code](https://github.com/shaikat17/JavaScript-Projects/tree/main/Copy%20Color%20Code)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Copy%20Color%20Code/index.html)|
-| 26 | 
+| 26 | [Discount Calculator](https://github.com/shaikat17/JavaScript-Projects/tree/main/Discount_Calculator)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Discount_Calculator/)|
+| 27 | [Drawing App](https://github.com/shaikat17/JavaScript-Projects/tree/main/Drawing%20App)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Drawing%20App/)|
+| 28 | [File Downloader](https://github.com/shaikat17/JavaScript-Projects/tree/main/File%20Downloader)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/File%20Downloader/)|
+| 29 | [Find-The-Imposter](https://github.com/shaikat17/JavaScript-Projects/tree/main/Find-The-Imposter)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/Find-The-Imposter/)|
+| 30 | [Rock Paper Scissor](https://github.com/shaikat17/JavaScript-Projects/tree/main/RockPaperScissor)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/RockPaperScissor/)|
+| 31 | [The Piano App](https://github.com/shaikat17/JavaScript-Projects/tree/main/The%20Piano%20App)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/The%20Piano%20App/)|
+| 32 | [Gradient Color Generator](https://github.com/shaikat17/JavaScript-Projects/tree/main/gradientColorGenerator)  | [Live Demo](https://shaikat17.github.io/JavaScript-Projects/gradientColorGenerator/)|
+| 33 |
